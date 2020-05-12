@@ -1,0 +1,28 @@
+body {
+  width: 80%;
+  border: 20px solid #bdc3c7;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 700px;
+}
+
+.main_div{
+	margin-bottom: 20px;
+}
+
+.date{
+	color: #3498db;
+	letter-spacing: 0.2em;
+}
+
+h2{
+	font-size: 2.0rem;
+  	font-weight: bold;
+  	color: #2c3e50;
+}
+
+.first{
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
